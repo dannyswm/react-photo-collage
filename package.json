@@ -43,7 +43,9 @@
     "webpack-dev-server": "^3.2.1"
   },
   "dependencies": {
-    "react-images": "^1.0.0"
+    "react-images": "^1.0.0",
+    "react-responsive-modal": "^6.1.0",
+    "react-responsive-carousel": "^3.2.21"
   },
   "peerDependencies": {
     "@types/react": "^16.14.6",
